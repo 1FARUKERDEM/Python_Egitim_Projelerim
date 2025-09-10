@@ -1,0 +1,21 @@
+# Windows çöpleri
+desktop.ini
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortamlar
+env/
+venv/
+.venv/
+
+# IDE klasörleri
+.vscode/
+.idea/
+
+# Mac çöpleri (ileride lazım olur)
+.DS_Store
